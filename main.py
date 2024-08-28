@@ -7,4 +7,4 @@ name = input("What is your name: ")
 # number of wookies and store as wookiees
 print(name, "wants to meet", droids, "droids and ", wookiees, "Wookiees!")
 name = input ("number of droids and store as droids")
-name = input ("number of wookies and store as wookies")
+name = input ("number of wookiees and store as wookiees")
